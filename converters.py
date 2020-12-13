@@ -22,4 +22,3 @@ mpg = float(mpg)
 
 # output the converted value rounded to 2 digets 
 print(round(mpg2kpl(mpg), 2), "kpl")
- 
